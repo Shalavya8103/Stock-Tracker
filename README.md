@@ -1,2 +1,2 @@
-# Stock-Tracker
-One Stop solution for stock related problems
+# Stocks Analysis (News + Technicals)
+One Stop solution for stock related Analysis
