@@ -1,2 +1,3 @@
-# Stocks Analysis (News + Technicals)
-One Stop solution for stock related Analysis
+# StockTracker
+
+An AI-driven stock prediction system integrating sentiment analysis and breakout detection.
